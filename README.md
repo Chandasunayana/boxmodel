@@ -1,0 +1,1 @@
+The CSS Box Model is a fundamental concept that describes the layout and spacing of elements on a webpage. It consists of four parts: content, padding, border, and margin. Understanding the box model helps developers control element size, spacing, and alignment effectively in web design.
